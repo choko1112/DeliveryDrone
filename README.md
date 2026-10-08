@@ -13,7 +13,7 @@
 
 ## 遊ぶ
 
-(公開したURLをここに書く)
+https://choko1112.github.io/DeliveryDrone/
 
 ## 技術メモ
 
